@@ -27,10 +27,12 @@
 // console.log(!itsBoolean);
 
 
-// ///////////////////////////
-var itsUndefined
+// // ///////////////////////////
 
-    console.log(itsUndefined);
+
+// var itsUndefined
+
+//     console.log(itsUndefined);
 
 
 
